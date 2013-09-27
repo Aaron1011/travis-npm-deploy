@@ -1,0 +1,8 @@
+{
+    "name": "travis-npm-deploy",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Aaron1011/travis-npm-deploy.git"
+    },
+    "version": "1.0.0"
+}
