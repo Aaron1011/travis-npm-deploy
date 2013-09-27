@@ -4,6 +4,7 @@ node_js:
 
 deploy:
   provider: npm
+  edge: true
   user: "aaron1011"
   api_key:
     - secure: "FxPyl49eQDLjJvd+yRd1KzN6SMLNWSA+Hpw6y6BvvzqOBhjMTNKNA061odMCM7i2kJE5UgyJly35yS1awCY1NuUYvPsJ01FkIjPDq+mipx5wUgArTU6fH56tlmtJitvLEBIQxgbf2XHOeberQ+zPL0Nh0Zy8Wgxjjg93fVRoH/E="
