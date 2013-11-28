@@ -21,3 +21,7 @@ deploy:
 after_script:
   - "git describe --tags --exact-match 2>/dev/null"
   - "echo $?"
+
+notifications:
+  email:
+    on_success: "always"
